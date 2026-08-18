@@ -20,14 +20,6 @@ A compact Deezer player for Firefox with synchronized lyrics, playback controls,
 
 Notes on security research, systems experiments, and the occasional rabbit hole.
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dadaam&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=315cff&amp;point=ffdb66&amp;area=true&amp;area_color=315cff&amp;hide_border=true&amp;custom_title=Contribution%20activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dadaam&amp;bg_color=ffffff&amp;color=24292f&amp;line=315cff&amp;point=d97706&amp;area=true&amp;area_color=315cff&amp;hide_border=true&amp;custom_title=Contribution%20activity" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dadaam&amp;bg_color=ffffff&amp;color=24292f&amp;line=315cff&amp;point=d97706&amp;area=true&amp;area_color=315cff&amp;hide_border=true&amp;custom_title=Contribution%20activity" width="100%" alt="Dadaam's GitHub contribution activity" />
-</picture>
-
 ## Usually working with
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,py,js,ts,bash,linux,apple&amp;theme=dark" alt="Rust, Python, JavaScript, TypeScript, Bash, Linux and macOS" /></a>

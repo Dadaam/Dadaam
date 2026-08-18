@@ -22,7 +22,7 @@ Notes on security research, systems experiments, and the occasional rabbit hole.
 
 ## Usually working with
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,py,js,ts,bash,linux,apple&amp;theme=dark" alt="Rust, Python, JavaScript, TypeScript, Bash, Linux and macOS" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,py,js,ts,bash,linux,apple,git,docker,pytorch&amp;theme=dark" alt="Rust, Python, JavaScript, TypeScript, Bash, Linux, macOS, Git, Docker and PyTorch" /></a>
 
 ---
 

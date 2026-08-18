@@ -1,81 +1,31 @@
-<div align="center">
+# Hi, I'm Dadaam.
 
-<img src="./assets/header.svg" width="100%" alt="Dadaam — security research, systems and experiments" />
+I'm a security researcher and builder based in Paris.
 
-<br />
+Most of my work sits somewhere between fuzzing, application security, systems programming, and tools I wanted badly enough to build myself. I care about reproducible results, clear limits, and writing down the parts that did not work.
 
-<a href="https://dadaam.github.io/"><img src="https://img.shields.io/badge/FIELD_NOTES-D8FF5F?style=for-the-badge&labelColor=0B0C0D&color=D8FF5F" alt="Read the field notes" /></a>
-<a href="https://github.com/Dadaam?tab=repositories"><img src="https://img.shields.io/badge/ALL_PROJECTS-F3EFE1?style=for-the-badge&labelColor=0B0C0D&color=F3EFE1" alt="Browse all projects" /></a>
-<a href="mailto:chtouroudadam@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-FF734D?style=for-the-badge&labelColor=0B0C0D&color=FF734D" alt="Send an email" /></a>
+### What I'm working on
 
-</div>
+#### [Achlys](https://github.com/Dadaam/Achlys)
 
-<br />
+An experimental cooperative fuzzing system built in Rust on top of LibAFL. It is where I test ideas around worker coordination, coverage, and what actually survives a fair benchmark.
 
-I build security research, systems tools, and small experiments designed to survive contact with reality. The interesting part is rarely the pitch. It is the mechanism, the failure mode, and the evidence left behind.
+#### [noxrec](https://github.com/Dadaam/noxrec)
 
-```text
-method     build → break → measure → document
-focus      fuzzing / application security / agentic systems
-tools      Rust / Python / JavaScript / macOS / Linux
-standard   explicit limits, reproducible claims
-```
+A macOS meeting recorder with separate microphone and system-audio tracks. It also produces a live transcript that an agent can follow while the meeting is still happening.
 
-## Selected field work
+#### [DeezPiP](https://github.com/Dadaam/DeezPiP)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Dadaam/Achlys"><img src="./assets/achlys.svg" width="100%" alt="Achlys — cooperative fuzzing experiments on LibAFL" /></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Dadaam/DeezPiP"><img src="./assets/deezpip.svg" width="100%" alt="DeezPiP — a floating Deezer player for Firefox" /></a>
-</td>
-</tr>
-</table>
+A compact Deezer player for Firefox with synchronized lyrics, playback controls, and theming pulled from the current album cover.
 
-<a href="https://github.com/Dadaam/noxrec"><img src="./assets/noxrec.svg" width="100%" alt="noxrec — local-first macOS meeting capture with a live transcript for agents" /></a>
+### Notes
 
-## What I investigate
+I write about security research, systems experiments, and the occasional rabbit hole at **[dadaam.github.io](https://dadaam.github.io/)**.
 
-<table>
-<tr>
-<td width="25%" valign="top"><b>01 / FUZZING</b><br /><sub>Coverage, mutation strategies, worker coordination, and the gap between a benchmark and a claim.</sub></td>
-<td width="25%" valign="top"><b>02 / SECURITY</b><br /><sub>Application flaws, browser boundaries, adversarial AI, and controlled proof of impact.</sub></td>
-<td width="25%" valign="top"><b>03 / SYSTEMS</b><br /><sub>Tools that expose their real state, fail loudly, and leave evidence another person can reproduce.</sub></td>
-<td width="25%" valign="top"><b>04 / NOTES</b><br /><sub>Technical field reports about the rabbit holes worth keeping, including the limits and dead ends.</sub></td>
-</tr>
-</table>
+### Usually working with
 
-## Operating principles
+`Rust` · `Python` · `JavaScript` · `TypeScript` · `Bash` · `Linux` · `macOS`
 
-```text
-evidence      >  confidence
-small proof   >  broad promise
-real path     >  configured path
-limitations   =  part of the result
-```
+---
 
-## Working set
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,python,js,ts,bash,linux,git,github,docker&perline=9" alt="Rust, Python, JavaScript, TypeScript, Bash, Linux, Git, GitHub and Docker" />
-
-</div>
-
-## Field notes
-
-Long-form write-ups live at **[dadaam.github.io](https://dadaam.github.io/)** — security research, systems experiments, and honest postmortems from ideas that met the real world.
-
-<br />
-
-<div align="center">
-
-<sub>PARIS, FRANCE · AVAILABLE FOR INTERESTING PROBLEMS</sub>
-
-<br /><br />
-
-<a href="mailto:chtouroudadam@gmail.com"><b>Start a conversation →</b></a>
-
-</div>
+[All repositories](https://github.com/Dadaam?tab=repositories) · [Blog](https://dadaam.github.io/) · [Email](mailto:chtouroudadam@gmail.com)

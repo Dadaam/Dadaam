@@ -1,0 +1,16 @@
+<svg width="720" height="270" viewBox="0 0 1200 450" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Dadaam</title>
+  <desc id="desc">Security, systems, and things worth building.</desc>
+
+  <rect width="1200" height="450" rx="20" fill="#315CFF"/>
+
+  <circle cx="70" cy="68" r="12" fill="#FFDB66"/>
+  <text x="100" y="76" fill="#F7F4EA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="600" letter-spacing="2">PARIS, FR</text>
+
+  <text x="58" y="282" fill="#F7F4EA" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="182" font-weight="900" letter-spacing="-10">DADAAM</text>
+
+  <rect x="60" y="332" width="310" height="4" fill="#FFDB66"/>
+  <text x="58" y="382" fill="#F7F4EA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" letter-spacing="1.5">SECURITY, SYSTEMS &amp; THINGS WORTH BUILDING</text>
+
+  <text x="1012" y="302" fill="#FFDB66" font-family="Georgia, Times New Roman, serif" font-size="190" font-weight="700">*</text>
+</svg>

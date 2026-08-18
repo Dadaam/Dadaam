@@ -1,3 +1,5 @@
+<img src="./assets/hero.svg" width="100%" alt="Dadaam — security, systems, and things worth building" />
+
 # Hi, I'm Dadaam.
 
 I'm a security researcher and builder based in Paris.
